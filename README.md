@@ -1,8 +1,8 @@
-# <Repository Name>
+# Repository Name
 
 ## Table of Contents
 
-- [](#)
+- [Repository Name](#repository-name)
   - [Table of Contents](#table-of-contents)
   - [Contributing](#contributing)
 

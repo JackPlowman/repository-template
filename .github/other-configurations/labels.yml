@@ -2,6 +2,9 @@
 - color: d73a4a
   name: bug
   description: Something isn't working
+- color: fef2c0
+  name: configuration
+  description: Changes to configuration files
 - color: 0075ca
   name: documentation
   description: Improvements or additions to documentation
@@ -39,6 +42,15 @@
 - color: 1900ff
   name: markdown
   description: Pull requests that update Markdown documentation
+- color: 66A615
+  name: just
+  description: Pull requests that update Just code
+- color: 2b67c6
+  name: python
+  description: Pull requests that update Python code
+- color: 00ff1e
+  name: typescript
+  description: Pull requests that update TypeScript code
 # Components
 - color: ff0073
   name: git_hooks
